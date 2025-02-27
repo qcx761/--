@@ -837,6 +837,7 @@ void appointmentManagement(){
     } while (choice != 6);
 }
 
+
 int main() {
     loadUsers();              // 加载用户信息
     loadPatients();           // 加载患者信息
