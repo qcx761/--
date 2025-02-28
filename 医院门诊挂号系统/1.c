@@ -795,6 +795,7 @@ void appointmentManagement(){
                 }
                 break;
             }
+            
             case 4: {
                 int idmodify;
                 printf("请输入要修改的预约ID:");
