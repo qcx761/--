@@ -861,6 +861,7 @@ int main() {
         }
     }
     int choice;
+    
     do{
         printf("\n医院门诊预约挂号系统\n");
         printf("---------------\n");
