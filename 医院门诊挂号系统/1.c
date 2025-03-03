@@ -605,7 +605,6 @@ void doctorManagement() {
                         break;
                     }
                 }
-                
                 if (!found) {
                     printf("未找到此医生。\n");
                 }
